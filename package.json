@@ -1,0 +1,14 @@
+{
+  "name": "portfolio-davey",
+  "version": "1.0.0",
+  "scripts": {
+    "site:prod": "vuepress build portfolio",
+    "site:dev": "vuepress dev portfolio"
+  },
+  "author": "Davey van den Bogaard",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "vuepress": "^1.2.0"
+  }
+}
